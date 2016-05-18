@@ -17,6 +17,9 @@ main(){
     printf("Radhika Yusuf Alifiansyah\n\n");
     printf("%d",i[16]);
     printf("Muhammad Angga was Here!!!\n\n");
+    printf("%d",i[3]);
+    printf("Alief Here!!!\n\n");
+
     
     
     //testing//
