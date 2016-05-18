@@ -19,6 +19,8 @@ main(){
     printf("Muhammad Angga was Here!!!\n\n");
     printf("%d",i[3]);
     printf("Alief Here!!!\n\n");
+    rintf("%d",i[7]);
+    printf("Chiqo Rifky Saputra\n\n");
 
     
     
