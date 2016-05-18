@@ -1,26 +1,15 @@
-#include<stdio.h>
-
+#include <stdio.h>
 main(){
-    int i[32], j;
-    
-    for(j=0; j<32; j++){
-        i[j] = j+1;
+    int my_array[32];
+    int i;
+
+    my_array[0] = "Muhammad Aqiel HM";
+    my_array[1] = "Fajar Nazmi Fadillah";
+    my_array[2] = "Chiqo Rifky Saputra";
+
+    printf("ABSENSI KELAS XI RPL 2\n\n");
+
+    for(i=0;i<3;i++){
+        printf("Data ke-%d =  %s\n",i+1,my_array[i]);
     }
-    
-    printf("ABSENSI KELAS XI RPL 2\n\n\n\n");
-
-    printf("%d",i[17]);
-    printf("Muchamad Aqiel HM\n\n");
-    printf("%d",i[8]);
-    printf("Fajar Nazmi Fadillah\n\n");
-    printf("%d",i[23]);
-    printf("Radhika Yusuf Alifiansyah\n\n");
-    printf("%d",i[16]);
-    printf("Muhammad Angga was Here!!!\n\n");
-    printf("%d",i[3]);
-    printf("Alief Here!!!\n\n");
-
-    
-    
-    //testing//
 }
