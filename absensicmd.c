@@ -15,6 +15,8 @@ main(){
     printf("Fajar Nazmi Fadillah\n\n");
     printf("%d",i[2]);
     printf("Radhika Yusuf Alifiansyah\n\n");
+    printf("%d",i[17]);
+    printf("Muhammad Angga was Here!!!\n\n");
     
     
     //testing//
