@@ -13,7 +13,7 @@ main(){
     printf("Muchamad Aqiel HM\n\n");
     printf("%d",i[8]);
     printf("Fajar Nazmi Fadillah\n\n");
-    printf("%d",i[2]);
+    printf("%d",i[23]);
     printf("Radhika Yusuf Alifiansyah\n\n");
     printf("%d",i[16]);
     printf("Muhammad Angga was Here!!!\n\n");
