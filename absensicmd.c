@@ -28,6 +28,8 @@ main(){
     printf("Dede Rusliandi\n\n");
     printf("%d", i[32]);
     printf("Vincentius Westley\n\n");
+    printf("%d",i[15]);
+    printf("Ivan Naufal Islami A\n\n");
     
     
     
