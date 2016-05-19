@@ -41,7 +41,8 @@ main(){
     printf("Fikri Adriansa Yudha\n\n");
     printf("%d", i[22]);
     printf("Muhammad Syahna \n\n");
-    
+    printf("%d", i[5]);
+    printf("Bagas Teguh Pratista\n\n");
     printf("%d", i[27]);
     printf("Rizky Alfa Uji G\n\n");
     printf("%d", i[13]);
@@ -50,6 +51,7 @@ main(){
     printf("%d", i[31]);
     printf("Tendi F");    
     //testing//
+    //123//
 }
 
 void fungsiRamadhan(){
