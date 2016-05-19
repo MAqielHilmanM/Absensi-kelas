@@ -15,7 +15,6 @@ main(){
     */
     
     printf("ABSENSI KELAS XI RPL 2\n\n\n\n");
-
     printf("%d",i[17]);
     printf("Muchamad Aqiel HM\n\n");
     printf("%d",i[8]);
@@ -42,6 +41,7 @@ main(){
     printf("%d", i[22]);
     printf("Muhammad Syahna \n\n");
     printf("%d", i[27]);
+    
     
     printf("Rizky Alfa Uji G\n\n");
     printf("%d", i[13]);
