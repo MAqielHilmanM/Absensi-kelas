@@ -26,6 +26,8 @@ main(){
     fungsiRamadhan();
     printf("%d",i[7]);
     printf("Dede Rusliandi\n\n");
+    printf("%d", i[32]);
+    printf("Vincentius Westley\n\n");
     
     
     
