@@ -41,15 +41,16 @@ main(){
     printf("Fikri Adriansa Yudha\n\n");
     printf("%d", i[22]);
     printf("Muhammad Syahna \n\n");
-    printf("%d", i[5]);
-    printf("Bagas Teguh Pratista\n\n");
+    
     printf("%d", i[27]);
     printf("Rizky Alfa Uji G\n\n");
     printf("%d", i[13]);
     printf("Iqbal Dzulfikar R\n\n");
     
     printf("%d", i[31]);
-    printf("Tendi F");    
+    printf("Tendi F");
+    printf("%d", i[5]);
+    printf("Bagas Teguh Pratista\n\n");
     //testing//
     //123//
 }
