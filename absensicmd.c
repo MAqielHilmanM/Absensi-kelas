@@ -95,7 +95,8 @@ main(){
     
     
     //ABSEN 20
-    
+    printf("%d",i[19]);
+    printf("M Defana \n\n");
     
     //ABSEN 21
     
