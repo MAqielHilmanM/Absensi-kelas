@@ -51,7 +51,9 @@ main(){
     printf("%d", i[31]);
     printf("Tendi F");
     //testing//
-
+    
+    printf("%d",i[1]);
+    printf("Aditya Aria S\n\n");
 }
 
 void fungsiRamadhan(){
