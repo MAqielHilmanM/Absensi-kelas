@@ -29,7 +29,9 @@ main(){
     printf("%d", i[32]);
     printf("Vincentius Westley\n\n");
     printf("%d", i[27]);
-    printf("Rizky Alfa Uji G");
+    printf("Rizky Alfa Uji G\n\n");
+    printf("%d", i[14]);
+    printf("Iqbal Dzulfikar Rusdhi\n\n");
     
     
     
