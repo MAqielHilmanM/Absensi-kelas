@@ -116,7 +116,8 @@ main(){
     printf("Radhika Yusuf Alifiansyah\n\n");
     
     //ABSEN 25
-    
+     printf("%d",i[24]);
+    printf("Reihan fadilah\n\n");
     
     
     //ABSEN 26
