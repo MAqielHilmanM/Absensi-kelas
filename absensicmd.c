@@ -36,7 +36,7 @@ main(){
     printf("Rizky Alfa Uji G");
     
     
-    
+    wjjajaajajajjaha
     //testing//
 }
 
