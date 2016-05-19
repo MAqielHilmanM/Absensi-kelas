@@ -129,7 +129,8 @@ main(){
     printf("Rizky Alfa Uji G\n\n");
     
     //ABSEN 28
-    
+    printf("%d", i[27]);
+    printf("Ryandita Aria Permana\n\n");
     
     
     //ABSEN 29
