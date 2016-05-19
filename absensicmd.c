@@ -37,7 +37,8 @@ main(){
     
     
     //ABSEN 6
-    
+    printf("%d", i[5]);
+    printf(" Bagas Teguh P\n\n");
     
     
     //ABSEN 7
