@@ -49,8 +49,9 @@ main(){
     
     printf("%d", i[31]);
     printf("Tendi F");
-    printf("%d", i[5]);
-    printf("Bagas Teguh Pratista\n\n");
+    
+    printf("%d", i[6]);
+    printf("Bagas Teguh P");
     //testing//
     //123//
 }
