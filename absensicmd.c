@@ -34,10 +34,9 @@ main(){
     
     printf("%d", i[27]);
     printf("Rizky Alfa Uji G");
-    printf("%d", i[22]);
-    printf("Muhammad Syahna \n\n");
     
-    wjjajaajajajjaha
+    printf("%d", i[31]);
+    printf("Tendi F");    
     //testing//
 }
 
