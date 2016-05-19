@@ -42,6 +42,7 @@ main(){
     printf("%d", i[22]);
     printf("Muhammad Syahna \n\n");
     printf("%d", i[27]);
+    
     printf("Rizky Alfa Uji G\n\n");
     printf("%d", i[13]);
     printf("Iqbal Dzulfikar R\n\n");
