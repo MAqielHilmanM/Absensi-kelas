@@ -43,15 +43,15 @@ main(){
     printf("Muhammad Syahna \n\n");
    
     
-     printf("%d", i[27]);
+    printf("%d", i[27]);
     printf("Rizky Alfa Uji G\n\n");
     printf("%d", i[13]);
     printf("Iqbal Dzulfikar R\n\n");
+    
     printf("%d", i[31]);
     printf("Tendi F");
-    printf("%d",i[1]);
-    printf("Aditya Aria S\n\n");
     //testing//
+
 }
 
 void fungsiRamadhan(){
