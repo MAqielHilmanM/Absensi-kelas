@@ -31,7 +31,7 @@ main(){
     printf("%d", i[27]);
     printf("Rizky Alfa Uji G\n\n");
     printf("%d", i[14]);
-    printf("Iqbal Dzulfikar Rusdhi\n\n");
+    printf("Iqbal Dzulfikar R\n\n");
     
     
     
