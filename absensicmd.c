@@ -79,7 +79,8 @@ main(){
     printf("Ivan Naufal Islami Al-faridzqi\n\n");
     
     //ABSEN 16
-    
+    printf("%d",i[15]);
+    printf("Michael Faizal Arrshyi\n\n");
     
     
     //ABSEN 17
@@ -150,5 +151,4 @@ main(){
 
 void fungsiRamadhan(){
     printf("Muhammad Ramadhan Rahmat Buat Fungsi Ruang Hampa");   
-}
 }
