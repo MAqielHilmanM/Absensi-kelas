@@ -37,7 +37,7 @@ main(){
     printf("%d", i[22]);
     printf("Muhammad Syahna \n\n");
     
-    
+    wjjajaajajajjaha
     //testing//
 }
 
