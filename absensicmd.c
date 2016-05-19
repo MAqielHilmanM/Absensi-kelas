@@ -132,8 +132,8 @@ main(){
     printf("Ryandita Aria Permana\n\n");
     
     //ABSEN 29
-    
-    
+    printf("%d",i[28]);
+    printf("Setiawan Gunadi\n\n");
     
     //ABSEN 30    
     printf("%d",i[29]);
