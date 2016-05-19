@@ -67,8 +67,8 @@ main(){
     
     
     //ABSEN 13
-    
-    
+    printf("%d", i[12]);
+    printf("Hadian Rahmat \n\n")
     
     //ABSEN 14
     printf("%d", i[13]);
