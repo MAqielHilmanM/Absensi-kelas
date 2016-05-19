@@ -21,6 +21,8 @@ main(){
     printf("Alief Here!!!\n\n");
     printf("%d",i[6]);
     printf("Chiqo Rifky Saputra\n\n");
+    printf("%d",i[30]);
+    printf("Syamsul Maarief\n\n");
     fungsiRamadhan();
     printf("%d",i[7]);
     printf("Dede Rusliandi\n\n");
