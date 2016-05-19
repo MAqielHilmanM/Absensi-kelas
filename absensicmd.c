@@ -95,7 +95,6 @@ main(){
     printf("%d",i[18]);
     printf("Muhammad Zaky \n\n");
     
-    
     //ABSEN 20
     printf("%d",i[19]);
     printf("M Defana \n\n");
@@ -120,11 +119,9 @@ main(){
      printf("%d",i[24]);
     printf("Reihan fadilah\n\n");
     
-    
     //ABSEN 26
     printf("%d", i[25]);
     printf("Rizal Abiyyu A\n\n");
-    
     
     //ABSEN 27
     printf("%d", i[26]);
