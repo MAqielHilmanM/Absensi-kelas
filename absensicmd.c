@@ -30,7 +30,8 @@ main(){
     printf("Vincentius Westley\n\n");
     printf("%d",i[15]);
     printf("Ivan Naufal Islami Al-faridzqi\n\n");
-    
+    printf("%d", i[22]);
+    printf("Muhammad Syahna \n\n");
     
     printf("%d", i[27]);
     printf("Rizky Alfa Uji G");
