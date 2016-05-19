@@ -56,7 +56,8 @@ main(){
     
     //ABSEN 10
 
-
+    printf("%d",i[9]);
+    printf("Fatimah Az-Zahra\n\n");
 
     //ABSEN 11
     printf("%d",i[10]);
