@@ -25,12 +25,12 @@ main(){
     
     
     //ABSEN 3
-     printf("%d",i[2]);
+    printf("%d",i[2]);
     printf("Alief Here!!!\n\n");
     
     //ABSEN 4
-    
-    
+    printf("%d"),i[3]);
+    printf("Alwan Alfian Setiawan was here");
     
     //ABSEN 5
     
