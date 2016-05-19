@@ -54,6 +54,10 @@ main(){
     
     printf("%d",i[1]);
     printf("Aditya Aria S\n\n");
+    
+    //absen
+    printf("%d", i[4]);
+    printf("Alwan Alfian Setiawan\n\n");
 }
 
 void fungsiRamadhan(){
