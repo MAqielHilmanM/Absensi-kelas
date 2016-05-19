@@ -108,8 +108,8 @@ main(){
     printf("Muhammad Syahna \n\n");
     
     //ABSEN 23
-    
-    
+    printf("%d", i[22]);
+    printf("Najir Ali \n\n");
     
     //ABSEN 24
      printf("%d",i[23]);
