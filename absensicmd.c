@@ -92,7 +92,8 @@ main(){
     printf("Muchamad Aqiel HM\n\n");
     
     //ABSEN 19
-    
+    printf("%d",i[18]);
+    printf("Muhammad Zaky \n\n");
     
     
     //ABSEN 20
