@@ -122,7 +122,8 @@ main(){
     
     
     //ABSEN 26
-    
+    printf("%d", i[25]);
+    printf("Rizal Abiyyu A\n\n");
     
     
     //ABSEN 27
