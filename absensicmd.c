@@ -44,6 +44,18 @@ main(){
     
     
     
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     printf("%d", i[27]);
     printf("Rizky Alfa Uji G\n\n");
     printf("%d", i[13]);
