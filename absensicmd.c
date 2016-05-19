@@ -37,15 +37,12 @@ main(){
     
     
     //ABSEN 6
-    
     printf("%d", i[5]);
     printf(" Bagas Teguh P\n\n");
-    
     
     //ABSEN 7
     printf("%d",i[6]);
     printf("Chiqo Rifky Saputra\n\n");
-    
     
     //ABSEN 8
      printf("%d",i[7]);
