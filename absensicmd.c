@@ -21,13 +21,13 @@ main(){
     printf("Aditya Aria S\n\n");
     
     //ABSEN 2
-    
-    
+    printf("%d", i[1]);
+    printf("Agung Satrio Budi Prakoso\n\n");
     
     //ABSEN 3
     printf("%d",i[2]);
     printf("Alief Here!!!\n\n");
-    
+    Hp
     //ABSEN 4
     printf("%d"),i[3]);
     printf("Alwan Alfian Setiawan was here");
