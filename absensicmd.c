@@ -27,7 +27,7 @@ main(){
     //ABSEN 3
     printf("%d",i[2]);
     printf("Alief Here!!!\n\n");
-    Hp
+    
     //ABSEN 4
     printf("%d"),i[3]);
     printf("Alwan Alfian Setiawan was here");
@@ -65,8 +65,8 @@ main(){
     printf("Fikri Adriansa Yudha\n\n");
     
     //ABSEN 12
-    
-    
+    printf("%d",i[11]);
+    printf("Fitri \n\n");
     
     //ABSEN 13
     printf("%d", i[12]);
