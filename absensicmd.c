@@ -34,7 +34,8 @@ main(){
     
     //ABSEN 5
     
-    
+    printf("%d", i[4]);    
+    printf(" Arnaz Mursid P\n\n");
     
     //ABSEN 6
     printf("%d", i[5]);
