@@ -16,7 +16,7 @@ main(){
     printf("%d",i[2]);
     printf("Radhika Yusuf Alifiansyah\n\n");
     printf("%d",i[15]);
-    printf("Ivan Naufal Islami A\n\n");
+    printf("Ivan Naufal Islami Al-faridzqi\n\n");
     
     
 }
