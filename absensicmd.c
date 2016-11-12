@@ -116,6 +116,10 @@ main(){
     //ABSEN 24
      printf("%d",i[23]);
     printf("Radhika Yusuf Alifiansyah\n\n");
+    printf("%d",i[15]);
+    printf("Ivan Naufal Islami Al-faridzqi\n\n");
+    printf("Tambahan");
+    
     
     //ABSEN 25
      printf("%d",i[24]);
