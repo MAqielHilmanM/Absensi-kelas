@@ -9,7 +9,7 @@ main(){
     /*
         ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
                                                  PERHATIAN ABSEN DITAMBAH 1;
-                                       contoh jika absen 18 maka masukinnya array i[17];
+                                       contohnya jika absen 18 maka kita memasukkan array i[17];
         ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
         
     */
